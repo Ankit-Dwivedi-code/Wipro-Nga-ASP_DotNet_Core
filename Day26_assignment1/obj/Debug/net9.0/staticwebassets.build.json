@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "YmCDwgfJAkju0y+3eTOVeU8dCHLcs4b+voSAKemuaAk=",
+  "Source": "Day26_aggignment1",
+  "BasePath": "_content/Day26_aggignment1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Day26_aggignment1\\wwwroot",
+      "Source": "Day26_aggignment1",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\c6y74xuu9m-l5f3uruu5q.gz",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "index#[.{fingerprint=l5f3uruu5q}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g20cbbcy12",
+      "Integrity": "WML5hCZSV6QaAbaXTkq78BUCHJsYz2PLFL8GE6KNZgU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\n9bh1epnt0-gq8w5n8osj.gz",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "style#[.{fingerprint=gq8w5n8osj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pktzv0atd4",
+      "Integrity": "hyDrpz3EDv/ALlAPmX/7DdwifS9Fq+UPCg5SHlgA38g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\uib3ynissr-5bxu11tzgv.gz",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "error#[.{fingerprint=5bxu11tzgv}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\error.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kkqbrgqhry",
+      "Integrity": "RHYjRMZuMws5m/7/7eFLtAZyPHLSewin+5qwc7fp/3g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\error.html"
+    },
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\vkibvnq8jk-wev39k90y7.gz",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "script#[.{fingerprint=wev39k90y7}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "eur5qj80c6",
+      "Integrity": "yt3qXchHoX+dxQnHEOhrAJQ738rxT7sVI/E2Ca44itI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\error.html",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "error#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5bxu11tzgv",
+      "Integrity": "3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.html"
+    },
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\index.html",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l5f3uruu5q",
+      "Integrity": "efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\script.js",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wev39k90y7",
+      "Integrity": "ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\style.css",
+      "SourceId": "Day26_aggignment1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\",
+      "BasePath": "_content/Day26_aggignment1",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gq8w5n8osj",
+      "Integrity": "OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "error.5bxu11tzgv.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\uib3ynissr-5bxu11tzgv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006711409396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHYjRMZuMws5m/7/7eFLtAZyPHLSewin+5qwc7fp/3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bxu11tzgv"
+        },
+        {
+          "Name": "label",
+          "Value": "error.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA="
+        }
+      ]
+    },
+    {
+      "Route": "error.5bxu11tzgv.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\error.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bxu11tzgv"
+        },
+        {
+          "Name": "label",
+          "Value": "error.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA="
+        }
+      ]
+    },
+    {
+      "Route": "error.5bxu11tzgv.html.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\uib3ynissr-5bxu11tzgv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHYjRMZuMws5m/7/7eFLtAZyPHLSewin+5qwc7fp/3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bxu11tzgv"
+        },
+        {
+          "Name": "label",
+          "Value": "error.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHYjRMZuMws5m/7/7eFLtAZyPHLSewin+5qwc7fp/3g="
+        }
+      ]
+    },
+    {
+      "Route": "error.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\uib3ynissr-5bxu11tzgv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006711409396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHYjRMZuMws5m/7/7eFLtAZyPHLSewin+5qwc7fp/3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA="
+        }
+      ]
+    },
+    {
+      "Route": "error.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\error.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3yYSdEGs6G75IBkmRmU4MWRuz+U9CAvBaT2RdrdjRhA="
+        }
+      ]
+    },
+    {
+      "Route": "error.html.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\uib3ynissr-5bxu11tzgv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHYjRMZuMws5m/7/7eFLtAZyPHLSewin+5qwc7fp/3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHYjRMZuMws5m/7/7eFLtAZyPHLSewin+5qwc7fp/3g="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\c6y74xuu9m-l5f3uruu5q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004651162791"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WML5hCZSV6QaAbaXTkq78BUCHJsYz2PLFL8GE6KNZgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\c6y74xuu9m-l5f3uruu5q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WML5hCZSV6QaAbaXTkq78BUCHJsYz2PLFL8GE6KNZgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WML5hCZSV6QaAbaXTkq78BUCHJsYz2PLFL8GE6KNZgU="
+        }
+      ]
+    },
+    {
+      "Route": "index.l5f3uruu5q.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\c6y74xuu9m-l5f3uruu5q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004651162791"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WML5hCZSV6QaAbaXTkq78BUCHJsYz2PLFL8GE6KNZgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l5f3uruu5q"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk="
+        }
+      ]
+    },
+    {
+      "Route": "index.l5f3uruu5q.html",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l5f3uruu5q"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-efkugWPv5yNanpCBlDjEs+vn6UTj/0tjzpH0wWwwMKk="
+        }
+      ]
+    },
+    {
+      "Route": "index.l5f3uruu5q.html.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\c6y74xuu9m-l5f3uruu5q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WML5hCZSV6QaAbaXTkq78BUCHJsYz2PLFL8GE6KNZgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l5f3uruu5q"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WML5hCZSV6QaAbaXTkq78BUCHJsYz2PLFL8GE6KNZgU="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\vkibvnq8jk-wev39k90y7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007936507937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt3qXchHoX+dxQnHEOhrAJQ738rxT7sVI/E2Ca44itI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\vkibvnq8jk-wev39k90y7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt3qXchHoX+dxQnHEOhrAJQ738rxT7sVI/E2Ca44itI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yt3qXchHoX+dxQnHEOhrAJQ738rxT7sVI/E2Ca44itI="
+        }
+      ]
+    },
+    {
+      "Route": "script.wev39k90y7.js",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\vkibvnq8jk-wev39k90y7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007936507937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt3qXchHoX+dxQnHEOhrAJQ738rxT7sVI/E2Ca44itI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wev39k90y7"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A="
+        }
+      ]
+    },
+    {
+      "Route": "script.wev39k90y7.js",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wev39k90y7"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ODUcDyhQa9+B7M0uKwChkTkLDmG8nh16FNgDOTJuQ2A="
+        }
+      ]
+    },
+    {
+      "Route": "script.wev39k90y7.js.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\vkibvnq8jk-wev39k90y7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yt3qXchHoX+dxQnHEOhrAJQ738rxT7sVI/E2Ca44itI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wev39k90y7"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yt3qXchHoX+dxQnHEOhrAJQ738rxT7sVI/E2Ca44itI="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\n9bh1epnt0-gq8w5n8osj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007407407407"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hyDrpz3EDv/ALlAPmX/7DdwifS9Fq+UPCg5SHlgA38g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\n9bh1epnt0-gq8w5n8osj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hyDrpz3EDv/ALlAPmX/7DdwifS9Fq+UPCg5SHlgA38g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hyDrpz3EDv/ALlAPmX/7DdwifS9Fq+UPCg5SHlgA38g="
+        }
+      ]
+    },
+    {
+      "Route": "style.gq8w5n8osj.css",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\n9bh1epnt0-gq8w5n8osj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007407407407"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hyDrpz3EDv/ALlAPmX/7DdwifS9Fq+UPCg5SHlgA38g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gq8w5n8osj"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8="
+        }
+      ]
+    },
+    {
+      "Route": "style.gq8w5n8osj.css",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gq8w5n8osj"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OFVST0v6C+F0dGhb0RjMsqeu/gVu8+G7kmBVVc8BPV8="
+        }
+      ]
+    },
+    {
+      "Route": "style.gq8w5n8osj.css.gz",
+      "AssetFile": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\Debug\\net9.0\\compressed\\n9bh1epnt0-gq8w5n8osj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hyDrpz3EDv/ALlAPmX/7DdwifS9Fq+UPCg5SHlgA38g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Aug 2025 12:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gq8w5n8osj"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hyDrpz3EDv/ALlAPmX/7DdwifS9Fq+UPCg5SHlgA38g="
+        }
+      ]
+    }
+  ]
+}

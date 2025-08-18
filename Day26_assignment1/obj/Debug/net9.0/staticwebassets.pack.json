@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\error.html",
+      "PackagePath": "staticwebassets\\error.html"
+    },
+    {
+      "Id": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Day26_aggignment1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Day26_aggignment1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Day26_aggignment1.props",
+      "PackagePath": "build\\Day26_aggignment1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Day26_aggignment1.props",
+      "PackagePath": "buildMultiTargeting\\Day26_aggignment1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Day26_aggignment1.props",
+      "PackagePath": "buildTransitive\\Day26_aggignment1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

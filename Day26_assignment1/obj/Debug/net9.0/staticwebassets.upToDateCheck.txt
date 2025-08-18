@@ -1,0 +1,8 @@
+E:\week 5 dotnetcore recap\Day26_aggignment1\wwwroot\index.html
+E:\week 5 dotnetcore recap\Day26_aggignment1\wwwroot\style.css
+E:\week 5 dotnetcore recap\Day26_aggignment1\wwwroot\error.html
+E:\week 5 dotnetcore recap\Day26_aggignment1\wwwroot\script.js
+wwwroot\error.html
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\style.css
