@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\Day26_aggignment1.csproj",
-      "projectName": "Day26_aggignment1",
-      "projectPath": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\Day26_aggignment1.csproj",
+      "projectUniqueName": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\Day26_assignment1.csproj",
+      "projectName": "Day26_assignment1",
+      "projectPath": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\Day26_assignment1.csproj",
       "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
-      "outputPath": "E:\\week 5 dotnetcore recap\\Day26_aggignment1\\obj\\",
+      "outputPath": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

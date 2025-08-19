@@ -1,5 +1,4 @@
-using Day26_aggignment1.Middleware;
-
+using Day26_assignment1.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 

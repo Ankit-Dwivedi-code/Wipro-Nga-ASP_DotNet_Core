@@ -1,8 +1,6 @@
 ﻿using System.Diagnostics;
-using System.Threading.Tasks;
-using System.Diagnostics;
 
-namespace Day26_aggignment1.Middleware
+namespace Day26_assignment1.Middleware
 {
     public class RequestResponseLoggingMiddleware
     {
@@ -25,6 +23,7 @@ namespace Day26_aggignment1.Middleware
         }
     }
 
+    // Extension method
     public static class RequestResponseLoggingMiddlewareExtensions
     {
         public static IApplicationBuilder UseRequestResponseLogging(this IApplicationBuilder builder)
@@ -32,5 +31,4 @@ namespace Day26_aggignment1.Middleware
             return builder.UseMiddleware<RequestResponseLoggingMiddleware>();
         }
     }
-
 }
