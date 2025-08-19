@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|e:\\week 5 dotnetcore recap\\day26_assignment1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CED20A8-9A21-423E-BE0B-F9A56CBF77E1}|Day26_assignment1.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "error.html",
               "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\wwwroot\\error.html",
               "RelativeDocumentMoniker": "wwwroot\\error.html",
@@ -50,24 +50,23 @@
               "RelativeToolTip": "wwwroot\\error.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-19T01:49:30.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T01:49:30.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "RequestResponseLoggingMiddleware.cs",
               "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\Middleware\\RequestResponseLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\RequestResponseLoggingMiddleware.cs",
               "ToolTip": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\Middleware\\RequestResponseLoggingMiddleware.cs",
               "RelativeToolTip": "Middleware\\RequestResponseLoggingMiddleware.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T01:42:05.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "script.js",
               "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\wwwroot\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\script.js",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "wwwroot\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-19T01:40:21.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T01:40:21.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "style.css",
               "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\wwwroot\\style.css",
               "RelativeDocumentMoniker": "wwwroot\\style.css",
@@ -88,12 +86,11 @@
               "RelativeToolTip": "wwwroot\\style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-19T01:39:57.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T01:39:57.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
@@ -101,24 +98,24 @@
               "RelativeToolTip": "wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-19T01:39:37.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T01:39:37.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T01:38:03.332Z"
+              "WhenOpened": "2025-08-19T01:38:03.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\week 5 dotnetcore recap\\Day26_assignment1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T01:36:52.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T01:36:52.275Z"
             }
           ]
         }
