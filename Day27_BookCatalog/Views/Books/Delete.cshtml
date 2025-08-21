@@ -1,0 +1,9 @@
+@model Day27_BookCatalog.Models.Book
+@* Here the user can confirm the deletion of a book *@
+<h2>Delete Book</h2>
+<p>Are you sure you want to delete the book titled "@Model.Title"?</p>
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Delete</button>
+</form>
+
