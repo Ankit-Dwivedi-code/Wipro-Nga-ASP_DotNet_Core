@@ -1,0 +1,36 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+} *@
+
+@* Displaying the visit count and reset  *@
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h1 class="display-4">Visit Count</h1>
+<a class="btn btn-primary" href="/Home/Reset">Reset Visit Count</a>
+<p class="lead">You have visited this page @Model times.</p> *@
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1> Session Management Demo </h1>
+<div style="text-align:center;">
+    <h2>Visit Count: @Model</h2>
+    <h3> it shows how many times you have accessed the application </h3>
+    <form asp-action="Reset" method="post">
+        <a href="@Url.Action("Index", "Home")">Home</a>
+        <a href="@Url.Action("Reset", "Reset")">Reset</a>
+        <button type="submit">Reset</button>
+    </form>
+    <div style=" margin-top: 20px;">
+        <p>Session data can be useful for tracking user activity with following steps </p>
+        <ol>
+            <li>Click "Refresh Page" - counter increases</li>
+            <li>Open same URL in new browser tab - counter continues</li>
+            <li>Open in Incognito/Private window - counter resets (new session)</li>
+            <li>Wait 5 minutes - session expires, counter resets</li>
+        </ol>
+    </div>
