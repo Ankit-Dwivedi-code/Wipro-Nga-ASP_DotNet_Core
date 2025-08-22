@@ -1,0 +1,132 @@
+@* @model Day28_FeedbackPortal.Models.Feedback
+
+@{
+    ViewData["Title"] = "Submit Feedback";
+}
+
+<h2>Submit Feedback</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" type="email" />
+    </div>
+
+    <div>
+        <label asp-for="Rating"></label>
+        <select asp-for="Rating">
+            <option value="1">1 - Poor</option>
+            <option value="2">2</option>
+            <option value="3">3 - Average</option>
+            <option value="4">4</option>
+            <option value="5">5 - Excellent</option>
+        </select>
+    </div>
+
+    <div>
+        <label asp-for="Comments"></label>
+        <textarea asp-for="Comments"></textarea>
+    </div>
+
+    <button type="submit">Submit</button>
+</form>
+
+<br />
+<a asp-action="List">View Submitted Feedback</a> *@
+
+
+@* @model Day28_FeedbackPortal.Models.Feedback
+
+@{
+    ViewData["Title"] = "Submit Feedback (HTML Helpers)";
+}
+
+<h2>Submit Feedback (HTML Helpers)</h2>
+
+@using (Html.BeginForm("Create", "Feedback", FormMethod.Post))
+{
+    <div>
+        <label>Name:</label>
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "Enter your name" })
+    </div>
+
+    <div>
+        <label>Email:</label>
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", type = "email", placeholder = "Enter your email" })
+    </div>
+
+    <div>
+        <label>Rating:</label>
+        @Html.DropDownListFor(m => m.Rating,
+            new SelectList(new[]
+            {
+                new { Value = "1", Text = "1 - Poor" },
+                new { Value = "2", Text = "2" },
+                new { Value = "3", Text = "3 - Average" },
+                new { Value = "4", Text = "4" },
+                new { Value = "5", Text = "5 - Excellent" }
+            }, "Value", "Text"),
+            "-- Select Rating --",
+            new { @class = "form-control" })
+    </div>
+
+    <div>
+        <label>Comments:</label>
+        @Html.TextAreaFor(m => m.Comments, new { @class = "form-control", rows = 3, placeholder = "Enter comments" })
+    </div>
+
+    <button type="submit">Submit</button>
+}
+
+<br />
+@Html.ActionLink("View Submitted Feedback", "List", "Feedback") *@
+
+
+
+@model Day28_FeedbackPortal.Models.Feedback
+
+@{
+    ViewData["Title"] = "Submit Feedback (Custom HTML Helper)";
+}
+
+<h2>Submit Feedback</h2>
+
+@using (Html.BeginForm("Create", "Feedback", FormMethod.Post))
+{
+    <div>
+        <label>Name:</label>
+        @Html.StyledTextBox("Name", "Enter your name", "form-control")
+    </div>
+
+    <div>
+        <label>Email:</label>
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", type = "email" })
+    </div>
+
+    <div>
+        <label>Rating:</label>
+        @Html.DropDownListFor(m => m.Rating,
+            new SelectList(new[]
+            {
+                new { Value = "1", Text = "1 - Poor" },
+                new { Value = "2", Text = "2" },
+                new { Value = "3", Text = "3 - Average" },
+                new { Value = "4", Text = "4" },
+                new { Value = "5", Text = "5 - Excellent" }
+            }, "Value", "Text"),
+            "-- Select Rating --",
+            new { @class = "form-control" })
+    </div>
+
+    <div>
+        <label>Comments:</label>
+        @Html.TextAreaFor(m => m.Comments, new { @class = "form-control", rows = 3 })
+    </div>
+
+    <button type="submit">Submit</button>
+}
