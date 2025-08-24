@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Day30_BookStoreApp.props" />
+</Project>
